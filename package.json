@@ -1,0 +1,24 @@
+{
+  "name": "10_team_website_generator",
+  "version": "1.0.0",
+  "description": "The Team Website Generator uses nodejs and javascript to collect data and generate a website respectively. The user enters their data and is then presented with options to add teammates (engineers or interns) or to finalize the product and generate a website. The website when generated shows all your teammate's info, as well as your own.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelti/10_Team_Website_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelti/10_Team_Website_Generator/issues"
+  },
+  "homepage": "https://github.com/samuelti/10_Team_Website_Generator#readme"
+}

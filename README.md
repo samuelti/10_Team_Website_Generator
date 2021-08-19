@@ -4,4 +4,4 @@
 
   The only new technologies used were objects, which stored the imformation for each teammate type, and jest testing. The objects worked fine, and the website can support as many memebers as you're willing to add. The testing however, doesn't work, but the functionallity is implemented, I just haven't tested it yet.
 
-  video walk through link: https://drive.google.com/file/d/1EvRClmpAfmg4SendUqooYa73_qP5M2uz/view
+  video walk through link: https://drive.google.com/file/d/1EvRClmpAfmg4SendUqooYa73_qP5M2uz/viewa
